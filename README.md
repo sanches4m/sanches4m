@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre Mim
 
-Engenheiro de Software e Inteligência Artificial focado no desenvolvimento de soluções *end-to-end*:
+Engenheiro de Software e Inteligência Artificial, desenvolvimento de soluções *end-to-end*:
 - 🧠 **Sistemas Multi-Agentes & LLMs:** Arquitetura de agentes autônomos com **LangGraph**, **Function Calling** e **RAG**, integrando APIs (OpenAI, Gemini, Claude).
 - ☁️ **Cloud & Pipelines:** Deploy serverless em **Google Cloud Platform (Cloud Run)**, contêineres com **Docker** e pipelines analíticos com **BigQuery** e **SQL Avançado**.
 - ⚙️ **Hiperautomação & RPA:** Robôs avançados para web scraping, bypass de captchas, fluxos no **n8n / Power Automate** e automações legadas com **VBA / Macros**.
