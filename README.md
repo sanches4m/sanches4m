@@ -52,16 +52,7 @@ Engenheiro de Software e Inteligência Artificial, desenvolvimento de soluções
 
 ---
 
-### 📊 Métricas & Atividades
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sanches4m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas GitHub"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanches4m&layout=compact&theme=tokyonight" alt="Top Linguagens"/>
-</p>
-
----
-
-### 🐍 Minha Jornada de Commits
+### 🐍 Jornada de Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanches4m/sanches4m/output/github-snake-dark.svg">
