@@ -63,5 +63,5 @@ Engenheiro de Software e Inteligência Artificial, desenvolvimento de soluções
 ---
 
 <div align="center">
-  <sub>Configurado e mantido por <a href="https://github.com/sanches4m">Leonardo Parrera Sanches</a></sub>
+  <sub>Configurado e mantido por <a href="https://github.com/sanches4m">Leonardo P Sanches</a></sub>
 </div>
